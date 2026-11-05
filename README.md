@@ -48,4 +48,4 @@ Repository: [https://github.com/omvishwas/Student-Outcome-Lab](https://github.co
 - Compare the saved models, inspect one-vs-rest ROC curves, and download row-level predictions with class probabilities.
 - The app loads existing Joblib artifacts and does not retrain models.
 
-Live app: **[Add your Streamlit Community Cloud URL here]**
+Live app: **[https://student-outcome-lab-n28w8pdcdgde8bzyt2qjdu.streamlit.app]**
