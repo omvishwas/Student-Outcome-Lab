@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+assignment_instructions.pdf
+ML_Assignment_2_Project.zip
